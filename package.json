@@ -1,6 +1,6 @@
 {
   "name": "taro-simple-cli",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "简单的taro模板",
   "main": "./main.js",
   "bin": {
